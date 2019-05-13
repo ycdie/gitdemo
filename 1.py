@@ -1,4 +1,4 @@
 name1 = 'ycd'
-name2 = 'pc'
+name2 = 'pcp'
 
 num = 20
